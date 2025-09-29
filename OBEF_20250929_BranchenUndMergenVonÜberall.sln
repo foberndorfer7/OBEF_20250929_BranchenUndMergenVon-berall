@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OBEF_20250929_BranchenUndMergenVonÜberall", "OBEF_20250929_BranchenUndMergenVonÜberall\OBEF_20250929_BranchenUndMergenVonÜberall.csproj", "{18469AA3-96B1-445A-887B-24A5F1925F48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18469AA3-96B1-445A-887B-24A5F1925F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18469AA3-96B1-445A-887B-24A5F1925F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18469AA3-96B1-445A-887B-24A5F1925F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18469AA3-96B1-445A-887B-24A5F1925F48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2E57569-A12F-44C2-A693-3B037D8D84A6}
+	EndGlobalSection
+EndGlobal
